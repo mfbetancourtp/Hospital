@@ -1,0 +1,22 @@
+BD credentials:
+
+
+Host:  ec2-54-160-200-167.compute-1.amazonaws.com
+
+Database:  d7k52qlfsrm8kl
+
+User:  akmcgbapteypkj
+
+Port:  5432
+
+Password:  5aae17486b357de0fa5c5ce7df701c942aac3ec0b0261198538f18c2f94f8b1f
+
+URI: postgres://akmcgbapteypkj:5aae17486b357de0fa5c5ce7df701c942aac3ec0b0261198538f18c2f94f8b1f@ec2-54-160-200-167.compute-1.amazonaws.com:5432/d7k52qlfsrm8kl
+
+Heroku CLI:  heroku pg:psql postgresql-clean-08931 --app homecarehospital-db
+
+
+
+Jira:
+
+https://mcamimejia.atlassian.net/jira/software/projects/G6E2/boards/1

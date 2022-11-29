@@ -1,0 +1,6 @@
+from .empleadosSerializer import EmpleadosSerializer
+from .PacientesSerializer import PacientesSerializer
+from .FamiliaresSerializers import FamiliaresSerializer
+from .userSerializer import UserSerializer
+from .SignosVitalesSerializer import SignosVitalesSerializer
+from .HistoriaclinicaSerializer import HistoriaclinicaSerializer
